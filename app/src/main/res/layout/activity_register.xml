@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="@drawable/bk_new">
+
+    <EditText
+        android:id="@+id/R_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="用户名"
+        android:maxLines="1"
+        android:maxLength="10"
+        android:textSize="16sp"
+        android:padding="10dp"
+        android:drawableLeft="@drawable/name"
+        android:drawablePadding="5dp"
+        android:digits="android:digits=&quot;0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;"
+        android:background="@drawable/button_frame"
+        android:layout_marginTop="200dp"/>
+
+
+    <EditText
+        android:id="@+id/R_code"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/R_name"
+        android:hint="密码"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:maxLength="16"
+        android:drawableLeft="@drawable/password"
+        android:digits="android:digits=&quot;0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;"
+        android:inputType="textPassword"
+        android:background="@drawable/button_frame"
+        android:drawablePadding="5dp"
+        android:padding="5dp"
+        android:layout_marginTop="15dp"/>
+
+    <EditText
+        android:id="@+id/R_code_re"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/R_code"
+        android:digits="android:digits=&quot;0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ&quot;"
+        android:hint="确认密码"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:drawableLeft="@drawable/password"
+        android:maxLength="16"
+        android:inputType="textPassword"
+        android:background="@drawable/button_frame"
+        android:drawablePadding="5dp"
+        android:padding="5dp"
+        android:layout_marginTop="15dp"/>
+    
+    <Button
+        android:id="@+id/sure"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/R_code_re"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/button_click"
+        android:text="确认"
+        android:textSize="16sp"
+        android:textColor="#FFFFFF"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+
+    <TextView
+        android:id="@+id/U_tx1"
+        android:layout_width="match_parent"
+        android:layout_height="260dp"
+        android:textSize="32sp"
+        android:textColor="#000000"
+        android:background="@drawable/u_bk"
+
+        />
+    <TextView
+        android:id="@+id/mine"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="我的"
+        android:textColor="#000000"
+        android:textSize="32sp"
+        android:gravity="center"
+        android:layout_marginTop="10dp"/>
+
+
+
+
+    <TextView
+        android:id="@+id/grade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#000000"
+        android:textSize="28sp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="5dp"
+        android:layout_below="@id/mine"/>
+
+    <TextView
+        android:id="@+id/U_tx2"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/U_tx3"
+        android:text="       用户"
+        android:textColor="#000000"
+        android:textSize="30sp"
+        />
+
+    <TextView
+        android:id="@+id/U_tx3"
+        android:layout_width="match_parent"
+        android:layout_height="15dp"
+        android:layout_below="@id/U_tx1"/>
+    <ImageView
+        android:id="@+id/U_im1"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:src="@drawable/head"
+        android:layout_above="@id/U_tx2"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/U_tx2">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="235dp"
+            android:background="#EEEEEE"
+            android:layout_marginTop="15dp"
+            />
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/U_tx4"
+                    android:layout_width="400dp"
+                    android:layout_height="30dp"
+                    android:text="垃圾分类小贴士"
+                    android:textSize="20sp"
+                    android:textColor="#000000"
+                    android:gravity="center"
+                    android:layout_marginTop="15dp"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    >
+                    <Button
+                        android:id="@+id/U_btn1"
+                        android:layout_width="120dp"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/blue"
+                        />
+
+                    <Button
+                        android:id="@+id/U_btn2"
+                        android:layout_width="120dp"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/green"
+                        android:layout_marginLeft="20dp"
+                        />
+
+                    <Button
+                        android:id="@+id/U_btn3"
+                        android:layout_width="120dp"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/red"
+                        android:layout_marginLeft="20dp"
+                        />
+
+                    <Button
+                        android:id="@+id/U_btn4"
+                        android:layout_width="120dp"
+                        android:layout_height="150dp"
+                        android:layout_marginTop="15dp"
+                        android:background="@drawable/gray"
+                        android:layout_marginLeft="20dp"
+                        />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </HorizontalScrollView>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/U_dynamic"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/U_tx2"
+        android:layout_marginTop="265dp"
+        android:text="动态"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="@drawable/button_click_green"
+        android:layout_marginLeft="2dp"/>
+
+    <Button
+        android:id="@+id/U_static"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/U_tx2"
+        android:layout_toRightOf="@id/U_dynamic"
+        android:layout_marginTop="265dp"
+        android:text="静态"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="@drawable/button_click_green"
+        android:layout_marginLeft="7dp"/>
+
+    <Button
+        android:id="@+id/U_help"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/U_tx2"
+        android:layout_toRightOf="@id/U_static"
+        android:layout_marginTop="265dp"
+        android:text="帮助"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="@drawable/button_click_green"
+        android:layout_marginLeft="7dp"/>
+
+    <Button
+        android:id="@+id/U_mine"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_below="@id/U_tx2"
+        android:layout_toRightOf="@id/U_help"
+        android:layout_marginTop="265dp"
+        android:text="我的"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:background="@drawable/button_click_green"
+        android:layout_marginLeft="7dp"/>
+    
+
+</RelativeLayout>

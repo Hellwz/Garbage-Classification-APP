@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+MERGED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a9f99c422cf76cd3468fd3cacad5b14b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e4f8f90a48b6433b2e152787168e347d\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\93e9fb527a590c48978e2bbe2e4013bc\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\f4d490e52c829075a23eef41de0ec184\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\f139be11b5d21f62d44ad9b15ef38bde\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\42a2b14167a24f891a24d5eb3ccfd186\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fe2110a040a49bb90fd662148f30d773\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\7c1ac8de6d8c36f2345f1cdf702f5a78\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b3ae2406ee9deeab05f30aaf0202428b\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e774526bc76825b3462fbad378bdbc17\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\9582fafd5ece9829a017ddba73a54e78\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\2ed379f6fcd2607f530841f11fa33e85\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\53baacbea1b7085a885394c1e3032396\AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.4.0.aar\8de100cc1f9cb7b51f1156f93149cda5\AndroidManifest.xml:2:1-12:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.19.aar\99a455237dab20c8d15f163a92a54f53\AndroidManifest.xml:2:1-9:12
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\relinker-1.3.1.aar\ab389e1221b4d5f9b4de85fda2b5a052\AndroidManifest.xml:2:1-7:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+	package
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:17:5-51
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:1-57:12
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:16:11-69
+uses-permission#android.permission.CAMERA
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:19:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:21:22-77
+uses-feature#android.hardware.camera
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:24:19-67
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:27:5-71
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:27:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:28:5-71
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:28:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:29:5-72
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:29:22-69
+application
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:31:5-55:19
+MERGED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a9f99c422cf76cd3468fd3cacad5b14b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a9f99c422cf76cd3468fd3cacad5b14b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e4f8f90a48b6433b2e152787168e347d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e4f8f90a48b6433b2e152787168e347d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\93e9fb527a590c48978e2bbe2e4013bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\93e9fb527a590c48978e2bbe2e4013bc\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\f4d490e52c829075a23eef41de0ec184\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\f4d490e52c829075a23eef41de0ec184\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\f139be11b5d21f62d44ad9b15ef38bde\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\f139be11b5d21f62d44ad9b15ef38bde\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fe2110a040a49bb90fd662148f30d773\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fe2110a040a49bb90fd662148f30d773\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\7c1ac8de6d8c36f2345f1cdf702f5a78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\7c1ac8de6d8c36f2345f1cdf702f5a78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b3ae2406ee9deeab05f30aaf0202428b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b3ae2406ee9deeab05f30aaf0202428b\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e774526bc76825b3462fbad378bdbc17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e774526bc76825b3462fbad378bdbc17\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\9582fafd5ece9829a017ddba73a54e78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\9582fafd5ece9829a017ddba73a54e78\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\2ed379f6fcd2607f530841f11fa33e85\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\2ed379f6fcd2607f530841f11fa33e85\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\53baacbea1b7085a885394c1e3032396\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\53baacbea1b7085a885394c1e3032396\AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.4.0.aar\8de100cc1f9cb7b51f1156f93149cda5\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.4.0.aar\8de100cc1f9cb7b51f1156f93149cda5\AndroidManifest.xml:10:5-20
+	android:label
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:34:9-41
+	android:icon
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:33:9-40
+	android:allowBackup
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:35:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:36:9-38:48
+	android:label
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:38:13-45
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:37:13-43
+activity#com.example.android.tflitecamerademo.LogOnActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:39:9-51
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:39:19-48
+activity#com.example.android.tflitecamerademo.RegisterActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:40:9-54
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:40:19-51
+activity#com.example.android.tflitecamerademo.HelpActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:41:9-50
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:41:19-47
+activity#com.example.android.tflitecamerademo.UserCenterActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:42:9-56
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:42:19-53
+activity#com.example.android.tflitecamerademo.StaticActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:43:9-52
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:43:19-49
+activity#com.example.android.tflitecamerademo.PreviewActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:44:9-53
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:44:19-50
+activity#com.example.android.tflitecamerademo.PhotoActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:45:9-51
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:45:19-48
+activity#com.example.android.tflitecamerademo.HistoryActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:46:9-53
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:46:19-50
+activity#com.example.android.tflitecamerademo.CameraVisitorActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:47:9-59
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:47:19-56
+activity#com.example.android.tflitecamerademo.SplashActivity
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:48:9-54:20
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:48:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml:52:27-74
+uses-sdk
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a9f99c422cf76cd3468fd3cacad5b14b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.2.0.aar\a9f99c422cf76cd3468fd3cacad5b14b\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e4f8f90a48b6433b2e152787168e347d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\e4f8f90a48b6433b2e152787168e347d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\93e9fb527a590c48978e2bbe2e4013bc\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v13-25.2.0.aar\93e9fb527a590c48978e2bbe2e4013bc\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\f4d490e52c829075a23eef41de0ec184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.2.0.aar\f4d490e52c829075a23eef41de0ec184\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\f139be11b5d21f62d44ad9b15ef38bde\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.2.0.aar\f139be11b5d21f62d44ad9b15ef38bde\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\42a2b14167a24f891a24d5eb3ccfd186\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.2.0.aar\42a2b14167a24f891a24d5eb3ccfd186\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fe2110a040a49bb90fd662148f30d773\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\transition-25.2.0.aar\fe2110a040a49bb90fd662148f30d773\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\7c1ac8de6d8c36f2345f1cdf702f5a78\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\7c1ac8de6d8c36f2345f1cdf702f5a78\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b3ae2406ee9deeab05f30aaf0202428b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\b3ae2406ee9deeab05f30aaf0202428b\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e774526bc76825b3462fbad378bdbc17\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\e774526bc76825b3462fbad378bdbc17\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\9582fafd5ece9829a017ddba73a54e78\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\9582fafd5ece9829a017ddba73a54e78\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\2ed379f6fcd2607f530841f11fa33e85\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\2ed379f6fcd2607f530841f11fa33e85\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\53baacbea1b7085a885394c1e3032396\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\53baacbea1b7085a885394c1e3032396\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.4.0.aar\8de100cc1f9cb7b51f1156f93149cda5\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:2.4.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-2.4.0.aar\8de100cc1f9cb7b51f1156f93149cda5\AndroidManifest.xml:7:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.19.aar\99a455237dab20c8d15f163a92a54f53\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.19] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.19.aar\99a455237dab20c8d15f163a92a54f53\AndroidManifest.xml:5:5-7:41
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\relinker-1.3.1.aar\ab389e1221b4d5f9b4de85fda2b5a052\AndroidManifest.xml:5:5-43
+MERGED from [pl.droidsonroids:relinker:1.3.1] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\relinker-1.3.1.aar\ab389e1221b4d5f9b4de85fda2b5a052\AndroidManifest.xml:5:5-43
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] C:\Users\asus\.gradle\caches\transforms-1\files-1.1\design-25.2.0.aar\012d0da32f2e8fe9785ba06356f40f86\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		MERGED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\Projects\GarbageClassification\app\src\main\AndroidManifest.xml

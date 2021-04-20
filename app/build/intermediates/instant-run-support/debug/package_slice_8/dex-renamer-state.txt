@@ -1,0 +1,4 @@
+#Sun Apr 18 15:07:27 CST 2021
+base.0=H\:\\AndroidStudio\\Projects\\GarbageClassification\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+renamed.0=classes.dex
+file.0=H\:\\AndroidStudio\\Projects\\GarbageClassification\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8\\classes.dex
